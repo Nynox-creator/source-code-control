@@ -16,5 +16,4 @@ namespace nynox_manage_prisma_master_console
             Children = new AccountCollection();
         }
     }
-
 }
