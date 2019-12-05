@@ -1,0 +1,36 @@
+C:\Users\Lenovo\source\repos\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe.config
+C:\Users\Lenovo\source\repos\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe
+C:\Users\Lenovo\source\repos\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.pdb
+C:\Users\Lenovo\source\repos\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.exe
+C:\Users\Lenovo\source\repos\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.pdb
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.exe
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.pdb
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe.config
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.pdb
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.csprojAssemblyReference.cache
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe.config
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.pdb
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.csprojAssemblyReference.cache
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.exe
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.pdb
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe.config
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.pdb
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.exe
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.pdb
+D:\KyawThet\SharePointSync\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.csprojAssemblyReference.cache
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe.config
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.pdb
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.csprojAssemblyReference.cache
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.exe
+C:\Users\Lenovo\Nynox Pte Ltd\GTR BI Project - Documents\930_GTR DW\Z Project Control\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.pdb
+D:\Account Roll Up\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe.config
+D:\Account Roll Up\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.exe
+D:\Account Roll Up\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\bin\Debug\nynox_manage_prisma_master_console.pdb
+D:\Account Roll Up\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.csprojAssemblyReference.cache
+D:\Account Roll Up\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.exe
+D:\Account Roll Up\nynox_manage_prisma_master_console V2\nynox_manage_prisma_master_console\obj\Debug\nynox_manage_prisma_master_console.pdb
